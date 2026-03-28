@@ -102,6 +102,7 @@ Rulează periodic:
 * la 2 sec → citește senzorii
 ---
 ## 🔹 Avantajele proiectului
+
 ✔️ Detectare automată senzor
 
 ✔️ Interfață grafică clară
@@ -111,6 +112,7 @@ Rulează periodic:
 ✔️ Conectivitate WiFi
 
 ✔️ Extensibil (poți adăuga IoT, MQTT, etc.)
+
 ---
 ## 🔹 Posibile îmbunătățiri
 * Trimitere date în cloud (ex: Thingspeak, MQTT)
