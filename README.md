@@ -108,6 +108,7 @@ Rulează periodic:
 ✔️ Consum redus (fără delay excesiv)
 ✔️ Conectivitate WiFi
 ✔️ Extensibil (poți adăuga IoT, MQTT, etc.)
+
 ---
 ## 🔹 Posibile îmbunătățiri
 * Trimitere date în cloud (ex: Thingspeak, MQTT)
