@@ -104,9 +104,13 @@ Rulează periodic:
 ## 🔹 Avantajele proiectului
 
 ✔️ Detectare automată senzor
+
 ✔️ Interfață grafică clară
+
 ✔️ Consum redus (fără delay excesiv)
+
 ✔️ Conectivitate WiFi
+
 ✔️ Extensibil (poți adăuga IoT, MQTT, etc.)
 
 ---
