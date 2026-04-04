@@ -5,6 +5,10 @@
 Fără internet și oră. 
 ![20260402_115254](https://github.com/user-attachments/assets/9790fe6d-fdee-49cb-b160-9c89b46e55c1)
 
+# T-QT-Pro-DHT11-SHT31-v7
+![Captură de ecran 2026-04-04 105949](https://github.com/user-attachments/assets/8cba7afb-4e35-4c88-812d-32dd9b711696)
+
+
 
 
 # 📊 Prezentare proiect – Stație meteo cu ESP32 T-QT Pro
